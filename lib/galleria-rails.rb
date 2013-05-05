@@ -1,0 +1,1 @@
+require 'galleria/rails/engine'
